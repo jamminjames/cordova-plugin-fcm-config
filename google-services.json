@@ -1,3 +1,55 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "382900667859",
+    "firebase_url": "https://api-project-382900667859.firebaseio.com",
+    "project_id": "api-project-382900667859",
+    "storage_bucket": "api-project-382900667859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382900667859:android:ce4fde0b77351e8b",
+        "android_client_info": {
+          "package_name": "com.humortimes.newscartoons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382900667859-dsi7tamimndb2ku4vu02fi66nmsbq4b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humortimes.newscartoons",
+            "certificate_hash": "93465C1D0C9753D35170F6188368D3FD6C4A6835"
+          }
+        },
+        {
+          "client_id": "382900667859-5a1obh0me8nf810f3oueqi6c8p0q2thp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7pL5QtRdc7fcDFrmLx4Gy812Et32YnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382900667859-5a1obh0me8nf810f3oueqi6c8p0q2thp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
